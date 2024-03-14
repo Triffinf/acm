@@ -5,5 +5,6 @@
  typedef long long ll;
  typedef pair<int,int> pii ;
 int main(){
+   realloc()
  return 0;
  }
